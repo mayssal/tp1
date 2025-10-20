@@ -1,5 +1,10 @@
 # TP1 - Initiation à Java
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Licence](https://img.shields.io/badge/Licence-GL-blue?style=for-the-badge)
+
+---
+
 ## Description
 Ce projet correspond au **TP1** pour l’initiation à Java.  
 Il contient les exercices de base :  
@@ -22,7 +27,7 @@ Il contient les exercices de base :
 ---
 
 ## Auteur
-Nom et Prénom : Alibi Mays  
+Nom et Prénom : **Alibi Mays**  
 
 ---
 
